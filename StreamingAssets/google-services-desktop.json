@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14798364653",
+    "project_id": "canyoncruise-f8689",
+    "storage_bucket": "canyoncruise-f8689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14798364653:android:7dbb3b11497cf43c0551e4",
+        "android_client_info": {
+          "package_name": "com.JG.CanyonCruise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7kRYbjIPQCAsEiG6QRE_rIUmMzNPNeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
