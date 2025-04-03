@@ -29,6 +29,7 @@ body {
     background: url('Icon.png') center;
     background-repeat: no-repeat;
     background-size: cover;
+    border-radius: 1.5rem;
 }
 
 #unity-progress-bar-empty {
@@ -36,7 +37,7 @@ body {
     margin-right: auto;
     width: 141px;
     height: 18px;
-    margin-top: 10px;
+    margin-top: 20px;
     background: url('progress-bar-empty-dark.png') no-repeat center
 }
 
