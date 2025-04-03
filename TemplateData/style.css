@@ -26,7 +26,9 @@ body {
 #unity-logo {
     width: 154px;
     height: 154px;
-    background: url('Icon.png') no-repeat center
+    background: url('Icon.png') center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #unity-progress-bar-empty {
